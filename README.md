@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data set background
 
 
@@ -92,3 +93,9 @@ Note:
 
 This script was produced as the class project for Coursera's Getting and Cleaning Data course.
 
+=======
+Getting-and-Cleaning-Data-Class
+===============================
+
+Class project for Courseara (JHU) course entitled "Gettning and Cleaning Data"
+>>>>>>> 5d0b065de18dda559afc9edf5238ecaa7484e94b
